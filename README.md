@@ -1,2 +1,2 @@
 # gmapspoly
-parse a kml file and draw a polygon on gmaps
+parses a kml file and draws a polygon on gmaps
